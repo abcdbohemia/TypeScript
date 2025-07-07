@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import InputField from './components/inputField';
 import TodoList from './components/TodoList';
-import { Todo } from './components/model';
+import { Todo } from './model';
 
 const App: React.FC = () => {
   const[todo, setTodo] = useState<string>("");
