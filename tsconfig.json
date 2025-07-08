@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./typescript-tutorial" }
+    // If you have a 'shopping-cart' project that also uses TypeScript, add it here too:
+    // { "path": "./shopping-cart" }
+  ]
+}
